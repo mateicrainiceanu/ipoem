@@ -1,0 +1,6 @@
+[submodule "client-ipoem-nrg"]
+	path = client-ipoem-nrg
+	url = https://github.com/mateicrainiceanu/client-ipoem-nrg
+[submodule "api-ipoem-nrg"]
+	path = api-ipoem-nrg
+	url = https://github.com/mateicrainiceanu/api-ipoem-nrg
